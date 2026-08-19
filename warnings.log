@@ -1,0 +1,10 @@
+Line,File,Message
+4,/home/axkar/Downloads/git-hub/DevOps-Project/repo-test/casino-number-guessing-game/src/game.h,warning: Compound Game is not documented.
+6,/home/axkar/Downloads/git-hub/DevOps-Project/repo-test/casino-number-guessing-game/src/player.h,warning: Compound Player is not documented.
+9,/home/axkar/Downloads/git-hub/DevOps-Project/repo-test/casino-number-guessing-game/src/game.h,warning: Member Game(int level) (function) of class Game is not documented.
+10,/home/axkar/Downloads/git-hub/DevOps-Project/repo-test/casino-number-guessing-game/src/game.h,warning: Member getSecretNumber() const (function) of class Game is not documented.
+11,/home/axkar/Downloads/git-hub/DevOps-Project/repo-test/casino-number-guessing-game/src/game.h,warning: Member checkGuess(int guess) const (function) of class Game is not documented.
+12,/home/axkar/Downloads/git-hub/DevOps-Project/repo-test/casino-number-guessing-game/src/game.h,warning: Member calculatePrize(int attempts) const (function) of class Game is not documented.
+11,/home/axkar/Downloads/git-hub/DevOps-Project/repo-test/casino-number-guessing-game/src/player.h,warning: Member Player(std::string playerName) (function) of class Player is not documented.
+12,/home/axkar/Downloads/git-hub/DevOps-Project/repo-test/casino-number-guessing-game/src/player.h,warning: Member addWinnings(float amount) (function) of class Player is not documented.
+13,/home/axkar/Downloads/git-hub/DevOps-Project/repo-test/casino-number-guessing-game/src/player.h,warning: Member getTotalWinnings() (function) of class Player is not documented.
